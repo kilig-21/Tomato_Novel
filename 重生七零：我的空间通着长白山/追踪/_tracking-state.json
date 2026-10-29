@@ -252,7 +252,7 @@
     "recent_chapters": [
       {
         "chapter": 8,
-        "summary": "陈守山带少量干木耳和草药去大队代销点，摸清山货行价与出手的门道，借给集体捎土产的名头换回几毛二；他打算继续采山货，同时争取队里认可他看牲口的本事。"
+        "summary": "陈守山带着一小包晒干的木耳和草药去大队代销点，摸清山货行价与出手的门道；借给集体捎土产的名头换回几毛二。他把两条道掂过，放下眼前快钱，在心里落定「先立住名，钱才跟着来」。"
       },
       {
         "chapter": 9,
@@ -296,7 +296,7 @@
   "imported_through_chapter": 0,
   "last_committed_chapter": 10,
   "schema_version": 4,
-  "state_revision": 10,
+  "state_revision": 12,
   "timeline": {
     "E001": {
       "characters": [
@@ -437,7 +437,7 @@
       ],
       "first_recorded_chapter": 8,
       "id": "E010",
-      "objective_fact": "陈守山与赵二柱去大队代销点，听人报出行价（木耳／蘑菇干货一斤一两块到三块，药材几毛到一块多两块，皮张另算），也听清了门道：私自卖价高却踩「投机倒把」的线，交公稳当却压价，走得通的路子都得有个名目。他借着「队里让捎来点土产」的名头，把一小包干木耳与草药过秤交公，按公价换回几毛二分",
+      "objective_fact": "陈守山与赵二柱去大队代销点，听人报出行价（木耳／蘑菇干货一斤一两块到三块，药材几毛到一块多两块，皮张另算），摸清私卖踩线、交公压价、都得有个名目；他借「队里让捎来点土产」的名头过秤交公，换回几毛二分。回来路上他把两条道掂过，定下「先立住名，钱才跟着来」",
       "reader_knowledge": "读者跟着主角头一回把山货这把尺子量出来，也看见他第一笔名正言顺的进项只有几毛；收购这道门的深浅（秤、账、谁说了算）还没露",
       "reveal_chapter": 8,
       "reveal_status": "已揭示",
@@ -493,11 +493,11 @@
       "target": 2000
     },
     "2": {
-      "actual": 1731,
-      "body_sha256": "6ac4213850d831cbb5ce20ef6c731a27f1efed2f0aaccbdc954b6b6809fad459",
+      "actual": 1767,
+      "body_sha256": "7a9481df3d23fea42de1e898f3ed2c9297954888e96a3d7ed7dca38266e04b76",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
-      "status": "borderline",
+      "status": "internal_pass",
       "target": 2000
     },
     "3": {
@@ -541,11 +541,11 @@
       "target": 2000
     },
     "8": {
-      "actual": 1969,
-      "body_sha256": "2328fd80b9001a38906c2f20cc6b016a46ea162b16fd67fcdcdeaced9998fe72",
+      "actual": 1707,
+      "body_sha256": "3b6fe00e8e15b7e890fc9fb4028e1f2b6f92122ed9d942eefb8b164d0cf9e46d",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
-      "status": "internal_pass",
+      "status": "borderline",
       "target": 2000
     },
     "9": {
