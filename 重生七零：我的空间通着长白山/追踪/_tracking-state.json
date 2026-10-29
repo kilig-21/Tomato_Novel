@@ -303,7 +303,7 @@
   "imported_through_chapter": 0,
   "last_committed_chapter": 10,
   "schema_version": 4,
-  "state_revision": 30,
+  "state_revision": 39,
   "timeline": {
     "E001": {
       "characters": [
@@ -325,7 +325,7 @@
       ],
       "first_recorded_chapter": 2,
       "id": "E002",
-      "objective_fact": "陈守山到队部记工房求队上先挪口粮，被记工员一伙背后说「跟他爹一样是个惹不起事的命」；队长周振海按规矩要他托人递话，他没接台阶，认下起圈苦活换几个工分",
+      "objective_fact": "陈守山到队部记工房求队上先挪口粮，被记工员一伙背后说「跟他爹一样是个受气的命」；队长周振海按规矩要他托人递话，他没接台阶，认下起圈苦活换几个工分",
       "reader_knowledge": "读者看见队里对陈家的看轻，也看见他选了不求人这条路；周振海为何这么做，读者还不知道",
       "reveal_chapter": 2,
       "reveal_status": "已揭示",
@@ -484,32 +484,32 @@
   },
   "wordcount_records": {
     "1": {
-      "actual": 1819,
-      "body_sha256": "388d0ef39fc8ebe443863ed47b23b1afad5b1fa12e7c40c6b1262a676691f25d",
+      "actual": 1821,
+      "body_sha256": "8447c779b649e6f18b2fd856465ae438581fc0711b40613b1aa20fa1a6f61f78",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
       "target": 2000
     },
     "10": {
-      "actual": 1826,
-      "body_sha256": "e9a601fa3f34ad5edab89b303cc26e530f6d56f0f9f13c462e3fe7dfd0edfc36",
+      "actual": 1818,
+      "body_sha256": "9e516cc0e614a0ecc6bf83a04914b9832ebba51ce32f34df6d95566db13acce6",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
       "target": 2000
     },
     "2": {
-      "actual": 1791,
-      "body_sha256": "063d0cd05a4b835607881c72f70350e333bf09e02ff6fa91396ad6923969f00f",
+      "actual": 1794,
+      "body_sha256": "49252b0fd4efd91e5420743d6c253a48305a98ed05cc2b46a7c96888ccab662c",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
       "target": 2000
     },
     "3": {
-      "actual": 1948,
-      "body_sha256": "4da5ecece28806635d7ddcbcbe87b1dd61c4675fcea786a3400b44832409d1be",
+      "actual": 1947,
+      "body_sha256": "817e2b19e5a9813e37b6d02142044efaa622d68d1d896780bd9a16c123117b7d",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
@@ -524,24 +524,24 @@
       "target": 2000
     },
     "5": {
-      "actual": 2281,
-      "body_sha256": "46cebfc71d905554c38f37ca7892fbbfd1e4842d4256995a281d419eb820125a",
+      "actual": 2283,
+      "body_sha256": "5278aa5523eff5babe40678b234f656207919c93dcb8d0e856296c213c088710",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "borderline",
       "target": 2000
     },
     "6": {
-      "actual": 2171,
-      "body_sha256": "eb39fa56bfb830ecc0e7b590a9ca3e48c936e0fbb0bd50087f5e31ad7a66b995",
+      "actual": 2166,
+      "body_sha256": "6ba0a6e79a00e7b9ad72c51a051eb003307fe4686405c93dc256fb0c42c8bff4",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
       "target": 2000
     },
     "7": {
-      "actual": 2282,
-      "body_sha256": "4ee68cde2212c0c213f3769da62c57986b55f952b607f23c0288df558e573083",
+      "actual": 2285,
+      "body_sha256": "69add23d44f3416dc53a7e71aac4921fb248d5fb0300e3d015e10b4a824d72e1",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "borderline",
@@ -549,15 +549,15 @@
     },
     "8": {
       "actual": 1736,
-      "body_sha256": "18e824127e0fcf67a926e9ed27f1961156f9879a65b9720f6aed06558bd03b1a",
+      "body_sha256": "796b6ed1ee8f840ccec3dcec093436adbdbcb4aaad948233a3e11216e652add4",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "borderline",
       "target": 2000
     },
     "9": {
-      "actual": 2218,
-      "body_sha256": "d5f60ccd40b5eca378f21e66744f75d16c8f6691bd3f6b75603c86ae0511554b",
+      "actual": 2216,
+      "body_sha256": "f37a2ba16ab9ee948a3a3fb63e0500ac4094769297b3dab0f9f71bb193fc28ea",
       "metric": "visible_chars_v1",
       "resolution": "within_user_band",
       "status": "internal_pass",
